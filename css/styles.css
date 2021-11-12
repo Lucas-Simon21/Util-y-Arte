@@ -2982,6 +2982,7 @@ textarea.form-control-lg {
   text-decoration: none;
   vertical-align: middle;
   cursor: pointer;
+  margin: 10px;
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
